@@ -7,9 +7,9 @@ Only 43% deliver in a health facility.
 Who is most at risk — and what should policymakers do first?
 
 ## Live Demo
-🔗 **Interactive App:** https://maternal-risk-oracle-ng.hub.zerve.cloud
+🔗 **Interactive App:** https://ng-risk-oracle.hub.zerve.cloud
 
-🔗 **Zerve Project:** [Your Zerve public project URL here]
+🔗 **Zerve Project:** https://app.zerve.ai/notebook/b475b4be-9670-4974-b6d9-45b372cbdbf5
 
 ## The ANC Paradox
 Nigerian women attend checkups faithfully — then go home
@@ -50,7 +50,7 @@ Input any population's health indicators → get instant:
 Visit the app and move the sliders to simulate
 different health system scenarios:
 
-🔗 https://maternal-risk-oracle-ng.hub.zerve.cloud
+🔗 https://ng-risk-oracle.hub.zerve.cloud
 
 ## Tech Stack
 - **Analysis:** Python, Pandas, NumPy, Scikit-learn
